@@ -23,7 +23,6 @@ int main(int argc, char **argv) {
     // here is the idle func registration
     glutIdleFunc(renderScene);
 
-
     // enter GLUT event processing loop
     glutMainLoop();
 

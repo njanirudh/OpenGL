@@ -6,6 +6,7 @@
 
 void changeSize(int w, int h);
 void renderScene(void);
+void drawSnowMan();
 
 float angle = 0.0f;
 
@@ -73,8 +74,8 @@ void renderScene(void) {
                 0.0f, 0.0f,  0.0f,
                 0.0f, 1.0f,  0.0f);
 
-    //Rotate the
-    glRotatef(angle, 1.0f, 0.0f, 0.0f);
+    //Rotate the Obj
+    glRotatef(angle, 1.0f, 0.0f, 1.0f);
 
     glBegin(GL_TRIANGLES);
     glVertex3f(-2.0f,-2.0f, 0.0f);
