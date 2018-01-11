@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build-OpenGL-Display-Desktop_Qt_5_10_0_GCC_64bit-Default/
+
+build-OpenGL-Reshape-Desktop_Qt_5_10_0_GCC_64bit-Default/
+
+build-OpenGL-Transformation-Desktop_Qt_5_10_0_GCC_64bit-Default/
+
+*.user

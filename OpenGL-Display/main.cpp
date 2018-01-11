@@ -54,6 +54,10 @@ void renderScene(void) {
 
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
+    //Change the background color (r,g,b,a)
+    glClearColor(0.3,1.0,0.11,0);
+    glClear(GL_COLOR_BUFFER_BIT);
+
     //The primitive or primitives that will be created from vertices
     glBegin(GL_TRIANGLES);
 
