@@ -1,3 +1,4 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2000px-Opengl-logo.svg.png" height="100">    
 # OpenGL
 Code tutorials showing the basic functionalities of OpenGL.
 
